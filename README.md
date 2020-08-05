@@ -10,5 +10,7 @@ Repositorio materia procesos sexto semestre tdd con .net
 
 (TDD—Test Driven Development) es una técnica usada en los métodos ágiles que consiste en generar pruebas unitarias automáticas basadas en las historias de usuario. 
  
+# Ejemplo de TDD .net en linux mint
 
+[![Watch the video](https://recoverit.wondershare.com/images/article/2019/11/fix-youtube-black-screen-1.jpg)](https://www.youtube.com/watch?v=vSxdD7zkF3I&t=687s)
 
