@@ -1,0 +1,9 @@
+/home/devant/DotnetProcs/QuickSort/QuickSort/bin/Debug/netstandard2.0/QuickSort.deps.json
+/home/devant/DotnetProcs/QuickSort/QuickSort/bin/Debug/netstandard2.0/QuickSort.dll
+/home/devant/DotnetProcs/QuickSort/QuickSort/bin/Debug/netstandard2.0/QuickSort.pdb
+/home/devant/DotnetProcs/QuickSort/QuickSort/obj/Debug/netstandard2.0/QuickSort.csprojAssemblyReference.cache
+/home/devant/DotnetProcs/QuickSort/QuickSort/obj/Debug/netstandard2.0/QuickSort.AssemblyInfoInputs.cache
+/home/devant/DotnetProcs/QuickSort/QuickSort/obj/Debug/netstandard2.0/QuickSort.AssemblyInfo.cs
+/home/devant/DotnetProcs/QuickSort/QuickSort/obj/Debug/netstandard2.0/QuickSort.csproj.CoreCompileInputs.cache
+/home/devant/DotnetProcs/QuickSort/QuickSort/obj/Debug/netstandard2.0/QuickSort.dll
+/home/devant/DotnetProcs/QuickSort/QuickSort/obj/Debug/netstandard2.0/QuickSort.pdb

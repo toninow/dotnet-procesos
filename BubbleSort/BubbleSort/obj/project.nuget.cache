@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "xxZfjbz+rQ3gEXI3fgiNy0B77Y+aNnbHJsgQ2q/yBz1L4Mdy4XXJx6eSqublci3L2ZBmgYqdZ9JkSxXBWE7+dg==",
+  "success": true,
+  "projectFilePath": "/home/devant/DotnetProcs/BubbleSort/BubbleSort/BubbleSort.csproj",
+  "expectedPackageFiles": [
+    "/home/devant/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/home/devant/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

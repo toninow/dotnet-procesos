@@ -1,0 +1,9 @@
+/home/devant/DotnetProcs/ShellSort/Shellsort/bin/Debug/netstandard2.0/Shellsort.deps.json
+/home/devant/DotnetProcs/ShellSort/Shellsort/bin/Debug/netstandard2.0/Shellsort.dll
+/home/devant/DotnetProcs/ShellSort/Shellsort/bin/Debug/netstandard2.0/Shellsort.pdb
+/home/devant/DotnetProcs/ShellSort/Shellsort/obj/Debug/netstandard2.0/Shellsort.csprojAssemblyReference.cache
+/home/devant/DotnetProcs/ShellSort/Shellsort/obj/Debug/netstandard2.0/Shellsort.AssemblyInfoInputs.cache
+/home/devant/DotnetProcs/ShellSort/Shellsort/obj/Debug/netstandard2.0/Shellsort.AssemblyInfo.cs
+/home/devant/DotnetProcs/ShellSort/Shellsort/obj/Debug/netstandard2.0/Shellsort.csproj.CoreCompileInputs.cache
+/home/devant/DotnetProcs/ShellSort/Shellsort/obj/Debug/netstandard2.0/Shellsort.dll
+/home/devant/DotnetProcs/ShellSort/Shellsort/obj/Debug/netstandard2.0/Shellsort.pdb

@@ -1,0 +1,9 @@
+/home/devant/DotnetProcs/HeapSort/HeapSort/obj/Debug/netstandard2.0/HeapSort.csprojAssemblyReference.cache
+/home/devant/DotnetProcs/HeapSort/HeapSort/obj/Debug/netstandard2.0/HeapSort.AssemblyInfoInputs.cache
+/home/devant/DotnetProcs/HeapSort/HeapSort/obj/Debug/netstandard2.0/HeapSort.AssemblyInfo.cs
+/home/devant/DotnetProcs/HeapSort/HeapSort/obj/Debug/netstandard2.0/HeapSort.csproj.CoreCompileInputs.cache
+/home/devant/DotnetProcs/HeapSort/HeapSort/bin/Debug/netstandard2.0/HeapSort.deps.json
+/home/devant/DotnetProcs/HeapSort/HeapSort/bin/Debug/netstandard2.0/HeapSort.dll
+/home/devant/DotnetProcs/HeapSort/HeapSort/bin/Debug/netstandard2.0/HeapSort.pdb
+/home/devant/DotnetProcs/HeapSort/HeapSort/obj/Debug/netstandard2.0/HeapSort.dll
+/home/devant/DotnetProcs/HeapSort/HeapSort/obj/Debug/netstandard2.0/HeapSort.pdb

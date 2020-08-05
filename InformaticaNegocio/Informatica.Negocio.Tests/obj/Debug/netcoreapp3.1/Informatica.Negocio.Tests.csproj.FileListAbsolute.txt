@@ -1,0 +1,294 @@
+/home/antdev/Procs/Informatica.Negocio.Tests/bin/Debug/netcoreapp3.1/NUnit3.TestAdapter.dll
+/home/antdev/Procs/Informatica.Negocio.Tests/bin/Debug/netcoreapp3.1/NUnit3.TestAdapter.pdb
+/home/antdev/Procs/Informatica.Negocio.Tests/bin/Debug/netcoreapp3.1/nunit.engine.dll
+/home/antdev/Procs/Informatica.Negocio.Tests/bin/Debug/netcoreapp3.1/nunit.engine.api.dll
+/home/antdev/Procs/Informatica.Negocio.Tests/bin/Debug/netcoreapp3.1/Informatica.Negocio.Tests.deps.json
+/home/antdev/Procs/Informatica.Negocio.Tests/bin/Debug/netcoreapp3.1/Informatica.Negocio.Tests.runtimeconfig.json
+/home/antdev/Procs/Informatica.Negocio.Tests/bin/Debug/netcoreapp3.1/Informatica.Negocio.Tests.runtimeconfig.dev.json
+/home/antdev/Procs/Informatica.Negocio.Tests/bin/Debug/netcoreapp3.1/Informatica.Negocio.Tests.dll
+/home/antdev/Procs/Informatica.Negocio.Tests/bin/Debug/netcoreapp3.1/Informatica.Negocio.Tests.pdb
+/home/antdev/Procs/Informatica.Negocio.Tests/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.CodeCoverage.Shim.dll
+/home/antdev/Procs/Informatica.Negocio.Tests/bin/Debug/netcoreapp3.1/Microsoft.DotNet.InternalAbstractions.dll
+/home/antdev/Procs/Informatica.Negocio.Tests/bin/Debug/netcoreapp3.1/Microsoft.TestPlatform.CoreUtilities.dll
+/home/antdev/Procs/Informatica.Negocio.Tests/bin/Debug/netcoreapp3.1/Microsoft.TestPlatform.PlatformAbstractions.dll
+/home/antdev/Procs/Informatica.Negocio.Tests/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+/home/antdev/Procs/Informatica.Negocio.Tests/bin/Debug/netcoreapp3.1/Microsoft.TestPlatform.CommunicationUtilities.dll
+/home/antdev/Procs/Informatica.Negocio.Tests/bin/Debug/netcoreapp3.1/Microsoft.TestPlatform.CrossPlatEngine.dll
+/home/antdev/Procs/Informatica.Negocio.Tests/bin/Debug/netcoreapp3.1/Microsoft.TestPlatform.Utilities.dll
+/home/antdev/Procs/Informatica.Negocio.Tests/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.TestPlatform.Common.dll
+/home/antdev/Procs/Informatica.Negocio.Tests/bin/Debug/netcoreapp3.1/testhost.dll
+/home/antdev/Procs/Informatica.Negocio.Tests/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/home/antdev/Procs/Informatica.Negocio.Tests/bin/Debug/netcoreapp3.1/NuGet.Frameworks.dll
+/home/antdev/Procs/Informatica.Negocio.Tests/bin/Debug/netcoreapp3.1/nunit.framework.dll
+/home/antdev/Procs/Informatica.Negocio.Tests/bin/Debug/netcoreapp3.1/System.Xml.XPath.XmlDocument.dll
+/home/antdev/Procs/Informatica.Negocio.Tests/bin/Debug/netcoreapp3.1/cs/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/home/antdev/Procs/Informatica.Negocio.Tests/bin/Debug/netcoreapp3.1/cs/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/home/antdev/Procs/Informatica.Negocio.Tests/bin/Debug/netcoreapp3.1/de/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/home/antdev/Procs/Informatica.Negocio.Tests/bin/Debug/netcoreapp3.1/de/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/home/antdev/Procs/Informatica.Negocio.Tests/bin/Debug/netcoreapp3.1/es/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/home/antdev/Procs/Informatica.Negocio.Tests/bin/Debug/netcoreapp3.1/es/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/home/antdev/Procs/Informatica.Negocio.Tests/bin/Debug/netcoreapp3.1/fr/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/home/antdev/Procs/Informatica.Negocio.Tests/bin/Debug/netcoreapp3.1/fr/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/home/antdev/Procs/Informatica.Negocio.Tests/bin/Debug/netcoreapp3.1/it/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/home/antdev/Procs/Informatica.Negocio.Tests/bin/Debug/netcoreapp3.1/it/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/home/antdev/Procs/Informatica.Negocio.Tests/bin/Debug/netcoreapp3.1/ja/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/home/antdev/Procs/Informatica.Negocio.Tests/bin/Debug/netcoreapp3.1/ja/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/home/antdev/Procs/Informatica.Negocio.Tests/bin/Debug/netcoreapp3.1/ko/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/home/antdev/Procs/Informatica.Negocio.Tests/bin/Debug/netcoreapp3.1/ko/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/home/antdev/Procs/Informatica.Negocio.Tests/bin/Debug/netcoreapp3.1/pl/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/home/antdev/Procs/Informatica.Negocio.Tests/bin/Debug/netcoreapp3.1/pl/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/home/antdev/Procs/Informatica.Negocio.Tests/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/home/antdev/Procs/Informatica.Negocio.Tests/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/home/antdev/Procs/Informatica.Negocio.Tests/bin/Debug/netcoreapp3.1/ru/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/home/antdev/Procs/Informatica.Negocio.Tests/bin/Debug/netcoreapp3.1/ru/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/home/antdev/Procs/Informatica.Negocio.Tests/bin/Debug/netcoreapp3.1/tr/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/home/antdev/Procs/Informatica.Negocio.Tests/bin/Debug/netcoreapp3.1/tr/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/home/antdev/Procs/Informatica.Negocio.Tests/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/home/antdev/Procs/Informatica.Negocio.Tests/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/home/antdev/Procs/Informatica.Negocio.Tests/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/home/antdev/Procs/Informatica.Negocio.Tests/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/home/antdev/Procs/Informatica.Negocio.Tests/bin/Debug/netcoreapp3.1/cs/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/home/antdev/Procs/Informatica.Negocio.Tests/bin/Debug/netcoreapp3.1/cs/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/home/antdev/Procs/Informatica.Negocio.Tests/bin/Debug/netcoreapp3.1/cs/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/home/antdev/Procs/Informatica.Negocio.Tests/bin/Debug/netcoreapp3.1/de/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/home/antdev/Procs/Informatica.Negocio.Tests/bin/Debug/netcoreapp3.1/de/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/home/antdev/Procs/Informatica.Negocio.Tests/bin/Debug/netcoreapp3.1/de/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/home/antdev/Procs/Informatica.Negocio.Tests/bin/Debug/netcoreapp3.1/es/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/home/antdev/Procs/Informatica.Negocio.Tests/bin/Debug/netcoreapp3.1/es/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/home/antdev/Procs/Informatica.Negocio.Tests/bin/Debug/netcoreapp3.1/es/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/home/antdev/Procs/Informatica.Negocio.Tests/bin/Debug/netcoreapp3.1/fr/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/home/antdev/Procs/Informatica.Negocio.Tests/bin/Debug/netcoreapp3.1/fr/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/home/antdev/Procs/Informatica.Negocio.Tests/bin/Debug/netcoreapp3.1/fr/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/home/antdev/Procs/Informatica.Negocio.Tests/bin/Debug/netcoreapp3.1/it/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/home/antdev/Procs/Informatica.Negocio.Tests/bin/Debug/netcoreapp3.1/it/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/home/antdev/Procs/Informatica.Negocio.Tests/bin/Debug/netcoreapp3.1/it/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/home/antdev/Procs/Informatica.Negocio.Tests/bin/Debug/netcoreapp3.1/ja/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/home/antdev/Procs/Informatica.Negocio.Tests/bin/Debug/netcoreapp3.1/ja/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/home/antdev/Procs/Informatica.Negocio.Tests/bin/Debug/netcoreapp3.1/ja/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/home/antdev/Procs/Informatica.Negocio.Tests/bin/Debug/netcoreapp3.1/ko/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/home/antdev/Procs/Informatica.Negocio.Tests/bin/Debug/netcoreapp3.1/ko/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/home/antdev/Procs/Informatica.Negocio.Tests/bin/Debug/netcoreapp3.1/ko/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/home/antdev/Procs/Informatica.Negocio.Tests/bin/Debug/netcoreapp3.1/pl/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/home/antdev/Procs/Informatica.Negocio.Tests/bin/Debug/netcoreapp3.1/pl/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/home/antdev/Procs/Informatica.Negocio.Tests/bin/Debug/netcoreapp3.1/pl/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/home/antdev/Procs/Informatica.Negocio.Tests/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/home/antdev/Procs/Informatica.Negocio.Tests/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/home/antdev/Procs/Informatica.Negocio.Tests/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/home/antdev/Procs/Informatica.Negocio.Tests/bin/Debug/netcoreapp3.1/ru/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/home/antdev/Procs/Informatica.Negocio.Tests/bin/Debug/netcoreapp3.1/ru/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/home/antdev/Procs/Informatica.Negocio.Tests/bin/Debug/netcoreapp3.1/ru/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/home/antdev/Procs/Informatica.Negocio.Tests/bin/Debug/netcoreapp3.1/tr/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/home/antdev/Procs/Informatica.Negocio.Tests/bin/Debug/netcoreapp3.1/tr/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/home/antdev/Procs/Informatica.Negocio.Tests/bin/Debug/netcoreapp3.1/tr/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/home/antdev/Procs/Informatica.Negocio.Tests/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/home/antdev/Procs/Informatica.Negocio.Tests/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/home/antdev/Procs/Informatica.Negocio.Tests/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/home/antdev/Procs/Informatica.Negocio.Tests/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/home/antdev/Procs/Informatica.Negocio.Tests/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/home/antdev/Procs/Informatica.Negocio.Tests/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/home/antdev/Procs/Informatica.Negocio.Tests/obj/Debug/netcoreapp3.1/Informatica.Negocio.Tests.csprojAssemblyReference.cache
+/home/antdev/Procs/Informatica.Negocio.Tests/obj/Debug/netcoreapp3.1/Informatica.Negocio.Tests.AssemblyInfoInputs.cache
+/home/antdev/Procs/Informatica.Negocio.Tests/obj/Debug/netcoreapp3.1/Informatica.Negocio.Tests.AssemblyInfo.cs
+/home/antdev/Procs/Informatica.Negocio.Tests/obj/Debug/netcoreapp3.1/Informatica.Negocio.Tests.csproj.CoreCompileInputs.cache
+/home/antdev/Procs/Informatica.Negocio.Tests/obj/Debug/netcoreapp3.1/Informatica.Negocio.Tests.csproj.CopyComplete
+/home/antdev/Procs/Informatica.Negocio.Tests/obj/Debug/netcoreapp3.1/Informatica.Negocio.Tests.dll
+/home/antdev/Procs/Informatica.Negocio.Tests/obj/Debug/netcoreapp3.1/Informatica.Negocio.Tests.pdb
+/home/antdev/Procs/Informatica.Negocio.Tests/obj/Debug/netcoreapp3.1/Informatica.Negocio.Tests.genruntimeconfig.cache
+/home/antdev/Procs/Informatica.Negocio.Tests/bin/Debug/netcoreapp3.1/Informatica.Negocio.dll
+/home/antdev/Procs/Informatica.Negocio.Tests/bin/Debug/netcoreapp3.1/Informatica.Negocio.pdb
+/home/antdev/Procs/Informatica Negocio/Informatica.Negocio.Tests/bin/Debug/netcoreapp3.1/NUnit3.TestAdapter.dll
+/home/antdev/Procs/Informatica Negocio/Informatica.Negocio.Tests/bin/Debug/netcoreapp3.1/NUnit3.TestAdapter.pdb
+/home/antdev/Procs/Informatica Negocio/Informatica.Negocio.Tests/bin/Debug/netcoreapp3.1/nunit.engine.dll
+/home/antdev/Procs/Informatica Negocio/Informatica.Negocio.Tests/bin/Debug/netcoreapp3.1/nunit.engine.api.dll
+/home/antdev/Procs/Informatica Negocio/Informatica.Negocio.Tests/bin/Debug/netcoreapp3.1/Informatica.Negocio.Tests.deps.json
+/home/antdev/Procs/Informatica Negocio/Informatica.Negocio.Tests/bin/Debug/netcoreapp3.1/Informatica.Negocio.Tests.runtimeconfig.json
+/home/antdev/Procs/Informatica Negocio/Informatica.Negocio.Tests/bin/Debug/netcoreapp3.1/Informatica.Negocio.Tests.runtimeconfig.dev.json
+/home/antdev/Procs/Informatica Negocio/Informatica.Negocio.Tests/bin/Debug/netcoreapp3.1/Informatica.Negocio.Tests.dll
+/home/antdev/Procs/Informatica Negocio/Informatica.Negocio.Tests/bin/Debug/netcoreapp3.1/Informatica.Negocio.Tests.pdb
+/home/antdev/Procs/Informatica Negocio/Informatica.Negocio.Tests/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.CodeCoverage.Shim.dll
+/home/antdev/Procs/Informatica Negocio/Informatica.Negocio.Tests/bin/Debug/netcoreapp3.1/Microsoft.DotNet.InternalAbstractions.dll
+/home/antdev/Procs/Informatica Negocio/Informatica.Negocio.Tests/bin/Debug/netcoreapp3.1/Microsoft.TestPlatform.CoreUtilities.dll
+/home/antdev/Procs/Informatica Negocio/Informatica.Negocio.Tests/bin/Debug/netcoreapp3.1/Microsoft.TestPlatform.PlatformAbstractions.dll
+/home/antdev/Procs/Informatica Negocio/Informatica.Negocio.Tests/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+/home/antdev/Procs/Informatica Negocio/Informatica.Negocio.Tests/bin/Debug/netcoreapp3.1/Microsoft.TestPlatform.CommunicationUtilities.dll
+/home/antdev/Procs/Informatica Negocio/Informatica.Negocio.Tests/bin/Debug/netcoreapp3.1/Microsoft.TestPlatform.CrossPlatEngine.dll
+/home/antdev/Procs/Informatica Negocio/Informatica.Negocio.Tests/bin/Debug/netcoreapp3.1/Microsoft.TestPlatform.Utilities.dll
+/home/antdev/Procs/Informatica Negocio/Informatica.Negocio.Tests/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.TestPlatform.Common.dll
+/home/antdev/Procs/Informatica Negocio/Informatica.Negocio.Tests/bin/Debug/netcoreapp3.1/testhost.dll
+/home/antdev/Procs/Informatica Negocio/Informatica.Negocio.Tests/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/home/antdev/Procs/Informatica Negocio/Informatica.Negocio.Tests/bin/Debug/netcoreapp3.1/NuGet.Frameworks.dll
+/home/antdev/Procs/Informatica Negocio/Informatica.Negocio.Tests/bin/Debug/netcoreapp3.1/nunit.framework.dll
+/home/antdev/Procs/Informatica Negocio/Informatica.Negocio.Tests/bin/Debug/netcoreapp3.1/System.Xml.XPath.XmlDocument.dll
+/home/antdev/Procs/Informatica Negocio/Informatica.Negocio.Tests/bin/Debug/netcoreapp3.1/cs/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/home/antdev/Procs/Informatica Negocio/Informatica.Negocio.Tests/bin/Debug/netcoreapp3.1/cs/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/home/antdev/Procs/Informatica Negocio/Informatica.Negocio.Tests/bin/Debug/netcoreapp3.1/de/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/home/antdev/Procs/Informatica Negocio/Informatica.Negocio.Tests/bin/Debug/netcoreapp3.1/de/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/home/antdev/Procs/Informatica Negocio/Informatica.Negocio.Tests/bin/Debug/netcoreapp3.1/es/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/home/antdev/Procs/Informatica Negocio/Informatica.Negocio.Tests/bin/Debug/netcoreapp3.1/es/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/home/antdev/Procs/Informatica Negocio/Informatica.Negocio.Tests/bin/Debug/netcoreapp3.1/fr/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/home/antdev/Procs/Informatica Negocio/Informatica.Negocio.Tests/bin/Debug/netcoreapp3.1/fr/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/home/antdev/Procs/Informatica Negocio/Informatica.Negocio.Tests/bin/Debug/netcoreapp3.1/it/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/home/antdev/Procs/Informatica Negocio/Informatica.Negocio.Tests/bin/Debug/netcoreapp3.1/it/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/home/antdev/Procs/Informatica Negocio/Informatica.Negocio.Tests/bin/Debug/netcoreapp3.1/ja/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/home/antdev/Procs/Informatica Negocio/Informatica.Negocio.Tests/bin/Debug/netcoreapp3.1/ja/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/home/antdev/Procs/Informatica Negocio/Informatica.Negocio.Tests/bin/Debug/netcoreapp3.1/ko/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/home/antdev/Procs/Informatica Negocio/Informatica.Negocio.Tests/bin/Debug/netcoreapp3.1/ko/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/home/antdev/Procs/Informatica Negocio/Informatica.Negocio.Tests/bin/Debug/netcoreapp3.1/pl/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/home/antdev/Procs/Informatica Negocio/Informatica.Negocio.Tests/bin/Debug/netcoreapp3.1/pl/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/home/antdev/Procs/Informatica Negocio/Informatica.Negocio.Tests/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/home/antdev/Procs/Informatica Negocio/Informatica.Negocio.Tests/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/home/antdev/Procs/Informatica Negocio/Informatica.Negocio.Tests/bin/Debug/netcoreapp3.1/ru/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/home/antdev/Procs/Informatica Negocio/Informatica.Negocio.Tests/bin/Debug/netcoreapp3.1/ru/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/home/antdev/Procs/Informatica Negocio/Informatica.Negocio.Tests/bin/Debug/netcoreapp3.1/tr/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/home/antdev/Procs/Informatica Negocio/Informatica.Negocio.Tests/bin/Debug/netcoreapp3.1/tr/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/home/antdev/Procs/Informatica Negocio/Informatica.Negocio.Tests/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/home/antdev/Procs/Informatica Negocio/Informatica.Negocio.Tests/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/home/antdev/Procs/Informatica Negocio/Informatica.Negocio.Tests/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/home/antdev/Procs/Informatica Negocio/Informatica.Negocio.Tests/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/home/antdev/Procs/Informatica Negocio/Informatica.Negocio.Tests/bin/Debug/netcoreapp3.1/cs/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/home/antdev/Procs/Informatica Negocio/Informatica.Negocio.Tests/bin/Debug/netcoreapp3.1/cs/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/home/antdev/Procs/Informatica Negocio/Informatica.Negocio.Tests/bin/Debug/netcoreapp3.1/cs/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/home/antdev/Procs/Informatica Negocio/Informatica.Negocio.Tests/bin/Debug/netcoreapp3.1/de/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/home/antdev/Procs/Informatica Negocio/Informatica.Negocio.Tests/bin/Debug/netcoreapp3.1/de/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/home/antdev/Procs/Informatica Negocio/Informatica.Negocio.Tests/bin/Debug/netcoreapp3.1/de/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/home/antdev/Procs/Informatica Negocio/Informatica.Negocio.Tests/bin/Debug/netcoreapp3.1/es/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/home/antdev/Procs/Informatica Negocio/Informatica.Negocio.Tests/bin/Debug/netcoreapp3.1/es/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/home/antdev/Procs/Informatica Negocio/Informatica.Negocio.Tests/bin/Debug/netcoreapp3.1/es/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/home/antdev/Procs/Informatica Negocio/Informatica.Negocio.Tests/bin/Debug/netcoreapp3.1/fr/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/home/antdev/Procs/Informatica Negocio/Informatica.Negocio.Tests/bin/Debug/netcoreapp3.1/fr/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/home/antdev/Procs/Informatica Negocio/Informatica.Negocio.Tests/bin/Debug/netcoreapp3.1/fr/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/home/antdev/Procs/Informatica Negocio/Informatica.Negocio.Tests/bin/Debug/netcoreapp3.1/it/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/home/antdev/Procs/Informatica Negocio/Informatica.Negocio.Tests/bin/Debug/netcoreapp3.1/it/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/home/antdev/Procs/Informatica Negocio/Informatica.Negocio.Tests/bin/Debug/netcoreapp3.1/it/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/home/antdev/Procs/Informatica Negocio/Informatica.Negocio.Tests/bin/Debug/netcoreapp3.1/ja/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/home/antdev/Procs/Informatica Negocio/Informatica.Negocio.Tests/bin/Debug/netcoreapp3.1/ja/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/home/antdev/Procs/Informatica Negocio/Informatica.Negocio.Tests/bin/Debug/netcoreapp3.1/ja/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/home/antdev/Procs/Informatica Negocio/Informatica.Negocio.Tests/bin/Debug/netcoreapp3.1/ko/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/home/antdev/Procs/Informatica Negocio/Informatica.Negocio.Tests/bin/Debug/netcoreapp3.1/ko/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/home/antdev/Procs/Informatica Negocio/Informatica.Negocio.Tests/bin/Debug/netcoreapp3.1/ko/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/home/antdev/Procs/Informatica Negocio/Informatica.Negocio.Tests/bin/Debug/netcoreapp3.1/pl/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/home/antdev/Procs/Informatica Negocio/Informatica.Negocio.Tests/bin/Debug/netcoreapp3.1/pl/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/home/antdev/Procs/Informatica Negocio/Informatica.Negocio.Tests/bin/Debug/netcoreapp3.1/pl/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/home/antdev/Procs/Informatica Negocio/Informatica.Negocio.Tests/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/home/antdev/Procs/Informatica Negocio/Informatica.Negocio.Tests/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/home/antdev/Procs/Informatica Negocio/Informatica.Negocio.Tests/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/home/antdev/Procs/Informatica Negocio/Informatica.Negocio.Tests/bin/Debug/netcoreapp3.1/ru/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/home/antdev/Procs/Informatica Negocio/Informatica.Negocio.Tests/bin/Debug/netcoreapp3.1/ru/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/home/antdev/Procs/Informatica Negocio/Informatica.Negocio.Tests/bin/Debug/netcoreapp3.1/ru/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/home/antdev/Procs/Informatica Negocio/Informatica.Negocio.Tests/bin/Debug/netcoreapp3.1/tr/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/home/antdev/Procs/Informatica Negocio/Informatica.Negocio.Tests/bin/Debug/netcoreapp3.1/tr/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/home/antdev/Procs/Informatica Negocio/Informatica.Negocio.Tests/bin/Debug/netcoreapp3.1/tr/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/home/antdev/Procs/Informatica Negocio/Informatica.Negocio.Tests/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/home/antdev/Procs/Informatica Negocio/Informatica.Negocio.Tests/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/home/antdev/Procs/Informatica Negocio/Informatica.Negocio.Tests/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/home/antdev/Procs/Informatica Negocio/Informatica.Negocio.Tests/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/home/antdev/Procs/Informatica Negocio/Informatica.Negocio.Tests/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/home/antdev/Procs/Informatica Negocio/Informatica.Negocio.Tests/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/home/antdev/Procs/Informatica Negocio/Informatica.Negocio.Tests/bin/Debug/netcoreapp3.1/Informatica.Negocio.dll
+/home/antdev/Procs/Informatica Negocio/Informatica.Negocio.Tests/bin/Debug/netcoreapp3.1/Informatica.Negocio.pdb
+/home/antdev/Procs/Informatica Negocio/Informatica.Negocio.Tests/obj/Debug/netcoreapp3.1/Informatica.Negocio.Tests.csprojAssemblyReference.cache
+/home/antdev/Procs/Informatica Negocio/Informatica.Negocio.Tests/obj/Debug/netcoreapp3.1/Informatica.Negocio.Tests.AssemblyInfoInputs.cache
+/home/antdev/Procs/Informatica Negocio/Informatica.Negocio.Tests/obj/Debug/netcoreapp3.1/Informatica.Negocio.Tests.AssemblyInfo.cs
+/home/antdev/Procs/Informatica Negocio/Informatica.Negocio.Tests/obj/Debug/netcoreapp3.1/Informatica.Negocio.Tests.csproj.CoreCompileInputs.cache
+/home/antdev/Procs/Informatica Negocio/Informatica.Negocio.Tests/obj/Debug/netcoreapp3.1/Informatica.Negocio.Tests.csproj.CopyComplete
+/home/antdev/Procs/Informatica Negocio/Informatica.Negocio.Tests/obj/Debug/netcoreapp3.1/Informatica.Negocio.Tests.dll
+/home/antdev/Procs/Informatica Negocio/Informatica.Negocio.Tests/obj/Debug/netcoreapp3.1/Informatica.Negocio.Tests.pdb
+/home/antdev/Procs/Informatica Negocio/Informatica.Negocio.Tests/obj/Debug/netcoreapp3.1/Informatica.Negocio.Tests.genruntimeconfig.cache
+/home/devant/Procs/Informatica Negocio/Informatica.Negocio.Tests/bin/Debug/netcoreapp3.1/NUnit3.TestAdapter.dll
+/home/devant/Procs/Informatica Negocio/Informatica.Negocio.Tests/bin/Debug/netcoreapp3.1/NUnit3.TestAdapter.pdb
+/home/devant/Procs/Informatica Negocio/Informatica.Negocio.Tests/bin/Debug/netcoreapp3.1/nunit.engine.dll
+/home/devant/Procs/Informatica Negocio/Informatica.Negocio.Tests/bin/Debug/netcoreapp3.1/nunit.engine.api.dll
+/home/devant/Procs/Informatica Negocio/Informatica.Negocio.Tests/bin/Debug/netcoreapp3.1/Informatica.Negocio.Tests.deps.json
+/home/devant/Procs/Informatica Negocio/Informatica.Negocio.Tests/bin/Debug/netcoreapp3.1/Informatica.Negocio.Tests.runtimeconfig.json
+/home/devant/Procs/Informatica Negocio/Informatica.Negocio.Tests/bin/Debug/netcoreapp3.1/Informatica.Negocio.Tests.runtimeconfig.dev.json
+/home/devant/Procs/Informatica Negocio/Informatica.Negocio.Tests/bin/Debug/netcoreapp3.1/Informatica.Negocio.Tests.dll
+/home/devant/Procs/Informatica Negocio/Informatica.Negocio.Tests/bin/Debug/netcoreapp3.1/Informatica.Negocio.Tests.pdb
+/home/devant/Procs/Informatica Negocio/Informatica.Negocio.Tests/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.CodeCoverage.Shim.dll
+/home/devant/Procs/Informatica Negocio/Informatica.Negocio.Tests/bin/Debug/netcoreapp3.1/Microsoft.DotNet.InternalAbstractions.dll
+/home/devant/Procs/Informatica Negocio/Informatica.Negocio.Tests/bin/Debug/netcoreapp3.1/Microsoft.TestPlatform.CoreUtilities.dll
+/home/devant/Procs/Informatica Negocio/Informatica.Negocio.Tests/bin/Debug/netcoreapp3.1/Microsoft.TestPlatform.PlatformAbstractions.dll
+/home/devant/Procs/Informatica Negocio/Informatica.Negocio.Tests/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+/home/devant/Procs/Informatica Negocio/Informatica.Negocio.Tests/bin/Debug/netcoreapp3.1/Microsoft.TestPlatform.CommunicationUtilities.dll
+/home/devant/Procs/Informatica Negocio/Informatica.Negocio.Tests/bin/Debug/netcoreapp3.1/Microsoft.TestPlatform.CrossPlatEngine.dll
+/home/devant/Procs/Informatica Negocio/Informatica.Negocio.Tests/bin/Debug/netcoreapp3.1/Microsoft.TestPlatform.Utilities.dll
+/home/devant/Procs/Informatica Negocio/Informatica.Negocio.Tests/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.TestPlatform.Common.dll
+/home/devant/Procs/Informatica Negocio/Informatica.Negocio.Tests/bin/Debug/netcoreapp3.1/testhost.dll
+/home/devant/Procs/Informatica Negocio/Informatica.Negocio.Tests/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/home/devant/Procs/Informatica Negocio/Informatica.Negocio.Tests/bin/Debug/netcoreapp3.1/NuGet.Frameworks.dll
+/home/devant/Procs/Informatica Negocio/Informatica.Negocio.Tests/bin/Debug/netcoreapp3.1/nunit.framework.dll
+/home/devant/Procs/Informatica Negocio/Informatica.Negocio.Tests/bin/Debug/netcoreapp3.1/System.Xml.XPath.XmlDocument.dll
+/home/devant/Procs/Informatica Negocio/Informatica.Negocio.Tests/bin/Debug/netcoreapp3.1/cs/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/home/devant/Procs/Informatica Negocio/Informatica.Negocio.Tests/bin/Debug/netcoreapp3.1/cs/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/home/devant/Procs/Informatica Negocio/Informatica.Negocio.Tests/bin/Debug/netcoreapp3.1/de/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/home/devant/Procs/Informatica Negocio/Informatica.Negocio.Tests/bin/Debug/netcoreapp3.1/de/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/home/devant/Procs/Informatica Negocio/Informatica.Negocio.Tests/bin/Debug/netcoreapp3.1/es/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/home/devant/Procs/Informatica Negocio/Informatica.Negocio.Tests/bin/Debug/netcoreapp3.1/es/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/home/devant/Procs/Informatica Negocio/Informatica.Negocio.Tests/bin/Debug/netcoreapp3.1/fr/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/home/devant/Procs/Informatica Negocio/Informatica.Negocio.Tests/bin/Debug/netcoreapp3.1/fr/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/home/devant/Procs/Informatica Negocio/Informatica.Negocio.Tests/bin/Debug/netcoreapp3.1/it/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/home/devant/Procs/Informatica Negocio/Informatica.Negocio.Tests/bin/Debug/netcoreapp3.1/it/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/home/devant/Procs/Informatica Negocio/Informatica.Negocio.Tests/bin/Debug/netcoreapp3.1/ja/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/home/devant/Procs/Informatica Negocio/Informatica.Negocio.Tests/bin/Debug/netcoreapp3.1/ja/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/home/devant/Procs/Informatica Negocio/Informatica.Negocio.Tests/bin/Debug/netcoreapp3.1/ko/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/home/devant/Procs/Informatica Negocio/Informatica.Negocio.Tests/bin/Debug/netcoreapp3.1/ko/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/home/devant/Procs/Informatica Negocio/Informatica.Negocio.Tests/bin/Debug/netcoreapp3.1/pl/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/home/devant/Procs/Informatica Negocio/Informatica.Negocio.Tests/bin/Debug/netcoreapp3.1/pl/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/home/devant/Procs/Informatica Negocio/Informatica.Negocio.Tests/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/home/devant/Procs/Informatica Negocio/Informatica.Negocio.Tests/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/home/devant/Procs/Informatica Negocio/Informatica.Negocio.Tests/bin/Debug/netcoreapp3.1/ru/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/home/devant/Procs/Informatica Negocio/Informatica.Negocio.Tests/bin/Debug/netcoreapp3.1/ru/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/home/devant/Procs/Informatica Negocio/Informatica.Negocio.Tests/bin/Debug/netcoreapp3.1/tr/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/home/devant/Procs/Informatica Negocio/Informatica.Negocio.Tests/bin/Debug/netcoreapp3.1/tr/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/home/devant/Procs/Informatica Negocio/Informatica.Negocio.Tests/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/home/devant/Procs/Informatica Negocio/Informatica.Negocio.Tests/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/home/devant/Procs/Informatica Negocio/Informatica.Negocio.Tests/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/home/devant/Procs/Informatica Negocio/Informatica.Negocio.Tests/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/home/devant/Procs/Informatica Negocio/Informatica.Negocio.Tests/bin/Debug/netcoreapp3.1/cs/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/home/devant/Procs/Informatica Negocio/Informatica.Negocio.Tests/bin/Debug/netcoreapp3.1/cs/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/home/devant/Procs/Informatica Negocio/Informatica.Negocio.Tests/bin/Debug/netcoreapp3.1/cs/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/home/devant/Procs/Informatica Negocio/Informatica.Negocio.Tests/bin/Debug/netcoreapp3.1/de/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/home/devant/Procs/Informatica Negocio/Informatica.Negocio.Tests/bin/Debug/netcoreapp3.1/de/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/home/devant/Procs/Informatica Negocio/Informatica.Negocio.Tests/bin/Debug/netcoreapp3.1/de/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/home/devant/Procs/Informatica Negocio/Informatica.Negocio.Tests/bin/Debug/netcoreapp3.1/es/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/home/devant/Procs/Informatica Negocio/Informatica.Negocio.Tests/bin/Debug/netcoreapp3.1/es/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/home/devant/Procs/Informatica Negocio/Informatica.Negocio.Tests/bin/Debug/netcoreapp3.1/es/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/home/devant/Procs/Informatica Negocio/Informatica.Negocio.Tests/bin/Debug/netcoreapp3.1/fr/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/home/devant/Procs/Informatica Negocio/Informatica.Negocio.Tests/bin/Debug/netcoreapp3.1/fr/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/home/devant/Procs/Informatica Negocio/Informatica.Negocio.Tests/bin/Debug/netcoreapp3.1/fr/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/home/devant/Procs/Informatica Negocio/Informatica.Negocio.Tests/bin/Debug/netcoreapp3.1/it/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/home/devant/Procs/Informatica Negocio/Informatica.Negocio.Tests/bin/Debug/netcoreapp3.1/it/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/home/devant/Procs/Informatica Negocio/Informatica.Negocio.Tests/bin/Debug/netcoreapp3.1/it/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/home/devant/Procs/Informatica Negocio/Informatica.Negocio.Tests/bin/Debug/netcoreapp3.1/ja/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/home/devant/Procs/Informatica Negocio/Informatica.Negocio.Tests/bin/Debug/netcoreapp3.1/ja/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/home/devant/Procs/Informatica Negocio/Informatica.Negocio.Tests/bin/Debug/netcoreapp3.1/ja/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/home/devant/Procs/Informatica Negocio/Informatica.Negocio.Tests/bin/Debug/netcoreapp3.1/ko/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/home/devant/Procs/Informatica Negocio/Informatica.Negocio.Tests/bin/Debug/netcoreapp3.1/ko/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/home/devant/Procs/Informatica Negocio/Informatica.Negocio.Tests/bin/Debug/netcoreapp3.1/ko/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/home/devant/Procs/Informatica Negocio/Informatica.Negocio.Tests/bin/Debug/netcoreapp3.1/pl/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/home/devant/Procs/Informatica Negocio/Informatica.Negocio.Tests/bin/Debug/netcoreapp3.1/pl/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/home/devant/Procs/Informatica Negocio/Informatica.Negocio.Tests/bin/Debug/netcoreapp3.1/pl/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/home/devant/Procs/Informatica Negocio/Informatica.Negocio.Tests/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/home/devant/Procs/Informatica Negocio/Informatica.Negocio.Tests/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/home/devant/Procs/Informatica Negocio/Informatica.Negocio.Tests/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/home/devant/Procs/Informatica Negocio/Informatica.Negocio.Tests/bin/Debug/netcoreapp3.1/ru/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/home/devant/Procs/Informatica Negocio/Informatica.Negocio.Tests/bin/Debug/netcoreapp3.1/ru/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/home/devant/Procs/Informatica Negocio/Informatica.Negocio.Tests/bin/Debug/netcoreapp3.1/ru/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/home/devant/Procs/Informatica Negocio/Informatica.Negocio.Tests/bin/Debug/netcoreapp3.1/tr/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/home/devant/Procs/Informatica Negocio/Informatica.Negocio.Tests/bin/Debug/netcoreapp3.1/tr/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/home/devant/Procs/Informatica Negocio/Informatica.Negocio.Tests/bin/Debug/netcoreapp3.1/tr/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/home/devant/Procs/Informatica Negocio/Informatica.Negocio.Tests/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/home/devant/Procs/Informatica Negocio/Informatica.Negocio.Tests/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/home/devant/Procs/Informatica Negocio/Informatica.Negocio.Tests/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/home/devant/Procs/Informatica Negocio/Informatica.Negocio.Tests/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/home/devant/Procs/Informatica Negocio/Informatica.Negocio.Tests/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/home/devant/Procs/Informatica Negocio/Informatica.Negocio.Tests/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/home/devant/Procs/Informatica Negocio/Informatica.Negocio.Tests/bin/Debug/netcoreapp3.1/Informatica.Negocio.dll
+/home/devant/Procs/Informatica Negocio/Informatica.Negocio.Tests/bin/Debug/netcoreapp3.1/Informatica.Negocio.pdb
+/home/devant/Procs/Informatica Negocio/Informatica.Negocio.Tests/obj/Debug/netcoreapp3.1/Informatica.Negocio.Tests.csprojAssemblyReference.cache
+/home/devant/Procs/Informatica Negocio/Informatica.Negocio.Tests/obj/Debug/netcoreapp3.1/Informatica.Negocio.Tests.AssemblyInfoInputs.cache
+/home/devant/Procs/Informatica Negocio/Informatica.Negocio.Tests/obj/Debug/netcoreapp3.1/Informatica.Negocio.Tests.AssemblyInfo.cs
+/home/devant/Procs/Informatica Negocio/Informatica.Negocio.Tests/obj/Debug/netcoreapp3.1/Informatica.Negocio.Tests.csproj.CoreCompileInputs.cache
+/home/devant/Procs/Informatica Negocio/Informatica.Negocio.Tests/obj/Debug/netcoreapp3.1/Informatica.Negocio.Tests.csproj.CopyComplete
+/home/devant/Procs/Informatica Negocio/Informatica.Negocio.Tests/obj/Debug/netcoreapp3.1/Informatica.Negocio.Tests.dll
+/home/devant/Procs/Informatica Negocio/Informatica.Negocio.Tests/obj/Debug/netcoreapp3.1/Informatica.Negocio.Tests.pdb
+/home/devant/Procs/Informatica Negocio/Informatica.Negocio.Tests/obj/Debug/netcoreapp3.1/Informatica.Negocio.Tests.genruntimeconfig.cache

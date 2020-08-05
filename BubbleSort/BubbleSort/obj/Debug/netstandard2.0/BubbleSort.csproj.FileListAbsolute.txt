@@ -1,0 +1,9 @@
+/home/devant/DotnetProcs/BubbleSort/BubbleSort/bin/Debug/netstandard2.0/BubbleSort.deps.json
+/home/devant/DotnetProcs/BubbleSort/BubbleSort/bin/Debug/netstandard2.0/BubbleSort.dll
+/home/devant/DotnetProcs/BubbleSort/BubbleSort/bin/Debug/netstandard2.0/BubbleSort.pdb
+/home/devant/DotnetProcs/BubbleSort/BubbleSort/obj/Debug/netstandard2.0/BubbleSort.csprojAssemblyReference.cache
+/home/devant/DotnetProcs/BubbleSort/BubbleSort/obj/Debug/netstandard2.0/BubbleSort.AssemblyInfoInputs.cache
+/home/devant/DotnetProcs/BubbleSort/BubbleSort/obj/Debug/netstandard2.0/BubbleSort.AssemblyInfo.cs
+/home/devant/DotnetProcs/BubbleSort/BubbleSort/obj/Debug/netstandard2.0/BubbleSort.csproj.CoreCompileInputs.cache
+/home/devant/DotnetProcs/BubbleSort/BubbleSort/obj/Debug/netstandard2.0/BubbleSort.dll
+/home/devant/DotnetProcs/BubbleSort/BubbleSort/obj/Debug/netstandard2.0/BubbleSort.pdb

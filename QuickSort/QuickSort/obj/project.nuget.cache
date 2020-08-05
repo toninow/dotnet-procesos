@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "nbir/PRP2TPA7KkTeJ4DWZAoDtapRlHsM8Io9TC58uq+xwDYg+cDHOo7AlJMCSb24J20JfJS2LMyBB02DvTdkA==",
+  "success": true,
+  "projectFilePath": "/home/devant/DotnetProcs/QuickSort/QuickSort/QuickSort.csproj",
+  "expectedPackageFiles": [
+    "/home/devant/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/home/devant/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
