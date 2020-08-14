@@ -4,7 +4,7 @@ Repositorio materia procesos sexto semestre tdd con .net
 
 # Instalación de .net core en linuxmint20 ulyana
 
-[![Watch the video](https://recoverit.wondershare.com/images/article/2019/11/fix-youtube-black-screen-1.jpg)](https://www.youtube.com/embed/8-FireusJic)
+[![Watch the video](https://i2.wp.com/www.swhosting.com/blog/wp-content/uploads/2018/06/Instalar-NET-Core-en-Linux-v2.jpg?fit=1024%2C535&ssl=1)](https://www.youtube.com/embed/8-FireusJic)
 
 # Definición de TDD
 
