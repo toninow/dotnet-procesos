@@ -12,5 +12,5 @@ Repositorio materia procesos sexto semestre tdd con .net
  
 # Ejemplo de TDD .net en linux mint
 
-[![Watch the video](https://recoverit.wondershare.com/images/article/2019/11/fix-youtube-black-screen-1.jpg)](https://www.youtube.com/watch?v=vSxdD7zkF3I&t=687s)
+[![Watch the video](https://blog.irontec.com/wp-content/uploads/2016/07/red-green-refacto.png)](https://www.youtube.com/watch?v=vSxdD7zkF3I&t=687s)
 
