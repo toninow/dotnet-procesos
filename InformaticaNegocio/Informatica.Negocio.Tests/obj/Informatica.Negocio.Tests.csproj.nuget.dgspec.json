@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/devant/Procs/Informatica Negocio/Informatica.Negocio.Tests/Informatica.Negocio.Tests.csproj": {}
+    "/home/devant/DotnetProcs/InformaticaNegocio/Informatica.Negocio.Tests/Informatica.Negocio.Tests.csproj": {}
   },
   "projects": {
-    "/home/devant/Procs/Informatica Negocio/Informatica.Negocio.Tests/Informatica.Negocio.Tests.csproj": {
+    "/home/devant/DotnetProcs/InformaticaNegocio/Informatica.Negocio.Tests/Informatica.Negocio.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/devant/Procs/Informatica Negocio/Informatica.Negocio.Tests/Informatica.Negocio.Tests.csproj",
+        "projectUniqueName": "/home/devant/DotnetProcs/InformaticaNegocio/Informatica.Negocio.Tests/Informatica.Negocio.Tests.csproj",
         "projectName": "Informatica.Negocio.Tests",
-        "projectPath": "/home/devant/Procs/Informatica Negocio/Informatica.Negocio.Tests/Informatica.Negocio.Tests.csproj",
+        "projectPath": "/home/devant/DotnetProcs/InformaticaNegocio/Informatica.Negocio.Tests/Informatica.Negocio.Tests.csproj",
         "packagesPath": "/home/devant/.nuget/packages/",
-        "outputPath": "/home/devant/Procs/Informatica Negocio/Informatica.Negocio.Tests/obj/",
+        "outputPath": "/home/devant/DotnetProcs/InformaticaNegocio/Informatica.Negocio.Tests/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/devant/.nuget/NuGet/NuGet.Config"
@@ -25,8 +25,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "/home/devant/Procs/Informatica Negocio/Informatica.Negocio/Informatica.Negocio.csproj": {
-                "projectPath": "/home/devant/Procs/Informatica Negocio/Informatica.Negocio/Informatica.Negocio.csproj"
+              "/home/devant/DotnetProcs/InformaticaNegocio/Informatica.Negocio/Informatica.Negocio.csproj": {
+                "projectPath": "/home/devant/DotnetProcs/InformaticaNegocio/Informatica.Negocio/Informatica.Negocio.csproj"
               }
             }
           }
@@ -72,14 +72,14 @@
         }
       }
     },
-    "/home/devant/Procs/Informatica Negocio/Informatica.Negocio/Informatica.Negocio.csproj": {
+    "/home/devant/DotnetProcs/InformaticaNegocio/Informatica.Negocio/Informatica.Negocio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/devant/Procs/Informatica Negocio/Informatica.Negocio/Informatica.Negocio.csproj",
+        "projectUniqueName": "/home/devant/DotnetProcs/InformaticaNegocio/Informatica.Negocio/Informatica.Negocio.csproj",
         "projectName": "Informatica.Negocio",
-        "projectPath": "/home/devant/Procs/Informatica Negocio/Informatica.Negocio/Informatica.Negocio.csproj",
+        "projectPath": "/home/devant/DotnetProcs/InformaticaNegocio/Informatica.Negocio/Informatica.Negocio.csproj",
         "packagesPath": "/home/devant/.nuget/packages/",
-        "outputPath": "/home/devant/Procs/Informatica Negocio/Informatica.Negocio/obj/",
+        "outputPath": "/home/devant/DotnetProcs/InformaticaNegocio/Informatica.Negocio/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/devant/.nuget/NuGet/NuGet.Config"

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/devant/Procs/Informatica Negocio/Informatica.Negocio/Informatica.Negocio.csproj": {}
+    "/home/devant/DotnetProcs/InformaticaNegocio/Informatica.Negocio/Informatica.Negocio.csproj": {}
   },
   "projects": {
-    "/home/devant/Procs/Informatica Negocio/Informatica.Negocio/Informatica.Negocio.csproj": {
+    "/home/devant/DotnetProcs/InformaticaNegocio/Informatica.Negocio/Informatica.Negocio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/devant/Procs/Informatica Negocio/Informatica.Negocio/Informatica.Negocio.csproj",
+        "projectUniqueName": "/home/devant/DotnetProcs/InformaticaNegocio/Informatica.Negocio/Informatica.Negocio.csproj",
         "projectName": "Informatica.Negocio",
-        "projectPath": "/home/devant/Procs/Informatica Negocio/Informatica.Negocio/Informatica.Negocio.csproj",
+        "projectPath": "/home/devant/DotnetProcs/InformaticaNegocio/Informatica.Negocio/Informatica.Negocio.csproj",
         "packagesPath": "/home/devant/.nuget/packages/",
-        "outputPath": "/home/devant/Procs/Informatica Negocio/Informatica.Negocio/obj/",
+        "outputPath": "/home/devant/DotnetProcs/InformaticaNegocio/Informatica.Negocio/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/devant/.nuget/NuGet/NuGet.Config"

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "PzaGGx/2BtNkiyKa9SceZzDsIZp6FC3vRR6ml/TRF+0W+FoFFzyEHkYohTeP3P7ajOyjLXNZjj74Ow6/NY8yvg==",
+  "success": true,
+  "projectFilePath": "/home/devant/DotnetProcs/specflow/calculator/Example/Example.csproj",
+  "expectedPackageFiles": [
+    "/home/devant/.nuget/packages/microsoft.netcore.app.ref/3.0.0/microsoft.netcore.app.ref.3.0.0.nupkg.sha512",
+    "/home/devant/.nuget/packages/microsoft.aspnetcore.app.ref/3.0.1/microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

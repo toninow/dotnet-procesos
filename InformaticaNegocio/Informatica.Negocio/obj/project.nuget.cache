@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "fbWOB6pzhPJCFw+1uX+AXKsyiZrAFTEIe6r7wZ/uL/+e2Vd4iA9DqTC0LXpGiBXcojJfjZp3IaGlpg9LC9ySyg==",
+  "dgSpecHash": "TjwTvXQi7zT4Q81ohF2ZSEGT9osSIy3TmOxH/X4+oF20zM3CkvParu+mVmNchO40Ee7pCKBCjPm27aaoZxxt8A==",
   "success": true,
-  "projectFilePath": "/home/devant/Procs/Informatica Negocio/Informatica.Negocio/Informatica.Negocio.csproj",
+  "projectFilePath": "/home/devant/DotnetProcs/InformaticaNegocio/Informatica.Negocio/Informatica.Negocio.csproj",
   "expectedPackageFiles": [
     "/home/devant/.nuget/packages/microsoft.codecoverage/16.4.0/microsoft.codecoverage.16.4.0.nupkg.sha512",
     "/home/devant/.nuget/packages/microsoft.csharp/4.0.1/microsoft.csharp.4.0.1.nupkg.sha512",

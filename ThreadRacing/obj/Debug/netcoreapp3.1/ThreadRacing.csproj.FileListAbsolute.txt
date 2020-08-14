@@ -1,0 +1,13 @@
+/home/devant/DotnetProcs/ThreadRacing/bin/Debug/netcoreapp3.1/ThreadRacing
+/home/devant/DotnetProcs/ThreadRacing/bin/Debug/netcoreapp3.1/ThreadRacing.deps.json
+/home/devant/DotnetProcs/ThreadRacing/bin/Debug/netcoreapp3.1/ThreadRacing.runtimeconfig.json
+/home/devant/DotnetProcs/ThreadRacing/bin/Debug/netcoreapp3.1/ThreadRacing.runtimeconfig.dev.json
+/home/devant/DotnetProcs/ThreadRacing/bin/Debug/netcoreapp3.1/ThreadRacing.dll
+/home/devant/DotnetProcs/ThreadRacing/bin/Debug/netcoreapp3.1/ThreadRacing.pdb
+/home/devant/DotnetProcs/ThreadRacing/obj/Debug/netcoreapp3.1/ThreadRacing.csprojAssemblyReference.cache
+/home/devant/DotnetProcs/ThreadRacing/obj/Debug/netcoreapp3.1/ThreadRacing.AssemblyInfoInputs.cache
+/home/devant/DotnetProcs/ThreadRacing/obj/Debug/netcoreapp3.1/ThreadRacing.AssemblyInfo.cs
+/home/devant/DotnetProcs/ThreadRacing/obj/Debug/netcoreapp3.1/ThreadRacing.csproj.CoreCompileInputs.cache
+/home/devant/DotnetProcs/ThreadRacing/obj/Debug/netcoreapp3.1/ThreadRacing.dll
+/home/devant/DotnetProcs/ThreadRacing/obj/Debug/netcoreapp3.1/ThreadRacing.pdb
+/home/devant/DotnetProcs/ThreadRacing/obj/Debug/netcoreapp3.1/ThreadRacing.genruntimeconfig.cache

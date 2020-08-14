@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "dl0xYroY0KrqoWkLVVjhXbiNmxDTQbKUOpDmUHL0a0gmjeCaTu4/gDNBlI9/owNEZBbRoepo04TUJXaJix6dgQ==",
+  "success": true,
+  "projectFilePath": "/home/devant/DotnetProcs/specflow/Calculo.Negocio/Calculo.Negocio/Calculo.Negocio.csproj",
+  "expectedPackageFiles": [
+    "/home/devant/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/home/devant/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
