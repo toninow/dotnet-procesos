@@ -38,6 +38,7 @@ dotnet
 
 Nuget Package Manager
 
+Haz clic en la imagen para ver el video
 [![Watch the video](https://i2.wp.com/www.swhosting.com/blog/wp-content/uploads/2018/06/Instalar-NET-Core-en-Linux-v2.jpg?fit=1024%2C535&ssl=1)](https://www.youtube.com/embed/8-FireusJic)
 
 # Definición de TDD
@@ -46,5 +47,6 @@ Nuget Package Manager
  
 # Ejemplo de TDD .net en linux mint
 
+Haz clic en la imagen para ver el video
 [![Watch the video](https://blog.irontec.com/wp-content/uploads/2016/07/red-green-refacto.png)](https://www.youtube.com/watch?v=vSxdD7zkF3I&t=687s)
 
