@@ -60,5 +60,20 @@ namespace Informatica.Negocio.Tests
             //c b a
             //c a b
         }
+
+        [TestMethod]
+        public SumaDeDosNumerosPositivos()
+        {
+            var calculo = new Calculator();
+
+
+            var numero1 = 65;
+            var numero2 = 12;
+            var esperado = 77;
+
+            var resultado = calculo.Add(numero1, numero2);
+            Assert.AreEqual(esperado, resultado);
+
+        }
     }
 }

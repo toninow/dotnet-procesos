@@ -92,3 +92,9 @@
 /home/devant/DotnetProcs/miercoles12/Matematica.Test/obj/Debug/netcoreapp3.1/Matematica.Test.dll
 /home/devant/DotnetProcs/miercoles12/Matematica.Test/obj/Debug/netcoreapp3.1/Matematica.Test.pdb
 /home/devant/DotnetProcs/miercoles12/Matematica.Test/obj/Debug/netcoreapp3.1/Matematica.Test.genruntimeconfig.cache
+/home/devant/DotnetProcs/Matematica.Test/obj/Debug/netcoreapp3.1/Matematica.Test.csprojAssemblyReference.cache
+/home/devant/DotnetProcs/Matematica.Test/obj/Debug/netcoreapp3.1/Matematica.Test.AssemblyInfoInputs.cache
+/home/devant/DotnetProcs/Matematica.Test/obj/Debug/netcoreapp3.1/Matematica.Test.AssemblyInfo.cs
+/home/devant/DotnetProcs/Matematica.Test/obj/Debug/netcoreapp3.1/Matematica.Test.csproj.CoreCompileInputs.cache
+/home/devant/DotnetProcs/Matematica.Test/obj/Debug/netcoreapp3.1/Matematica.Test.dll
+/home/devant/DotnetProcs/Matematica.Test/obj/Debug/netcoreapp3.1/Matematica.Test.pdb

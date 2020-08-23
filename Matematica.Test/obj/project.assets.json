@@ -5721,11 +5721,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/devant/DotnetProcs/miercoles12/Matematica.Test/Matematica.Test.csproj",
+      "projectUniqueName": "/home/devant/DotnetProcs/Matematica.Test/Matematica.Test.csproj",
       "projectName": "Matematica.Test",
-      "projectPath": "/home/devant/DotnetProcs/miercoles12/Matematica.Test/Matematica.Test.csproj",
+      "projectPath": "/home/devant/DotnetProcs/Matematica.Test/Matematica.Test.csproj",
       "packagesPath": "/home/devant/.nuget/packages/",
-      "outputPath": "/home/devant/DotnetProcs/miercoles12/Matematica.Test/obj/",
+      "outputPath": "/home/devant/DotnetProcs/Matematica.Test/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/devant/.nuget/NuGet/NuGet.Config"
