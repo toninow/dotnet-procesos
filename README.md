@@ -1,13 +1,13 @@
 Enlaces Deberes:
 
-Código Ejemplo Youtube:
+Código Ejemplo Youtube dotnet:
 https://github.com/toninow/dotnet-procesos/tree/master/Deberes/1_YoutubeExample/Proyecto.Uno.Test
 
 Video de youtube ejemplo tdd
 https://www.youtube.com/watch?v=vSxdD7zkF3I&t=560s
 
-Código Algoritmos Ordenamiento:
-https://github.com/toninow/dotnet-procesos/tree/master/Deberes/1_YoutubeExample/Proyecto.Uno.Test
+Código Algoritmos Ordenamiento dotnet:
+https://github.com/toninow/dotnet-procesos/tree/master/Deberes/2_Algoritmos_Ordenamiento
 
 Enlace consulta PSP Y SCRUM:
 https://github.com/toninow/dotnet-procesos/tree/master/Deberes/3_ConsultaScrumPsp
@@ -15,16 +15,16 @@ https://github.com/toninow/dotnet-procesos/tree/master/Deberes/3_ConsultaScrumPs
 Imagen planning poker:
 https://github.com/toninow/dotnet-procesos/tree/master/Deberes/4_planningPoker
 
-Código Specflow OUTLINE:
+Código Specflow OUTLINE dotnet:
 https://github.com/toninow/dotnet-procesos/tree/master/Deberes/5_SpecFlow_outline
 
-Código carrera con hilos:
+Código carrera con hilos dotnet:
 https://github.com/toninow/dotnet-procesos/tree/master/Deberes/6_ThreadRacing/ThreadRacing
 
-Código empleados
+Código empleados TDD dotnet:
 https://github.com/toninow/dotnet-procesos/tree/master/Deberes/7_TDD/Empleado
 
-Código Mocks:
+Código Mocks dotnet:
 https://github.com/toninow/dotnet-procesos/tree/master/Deberes/8_Mocks/misMocks
 
 
