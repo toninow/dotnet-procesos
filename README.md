@@ -3,6 +3,9 @@ Enlaces Deberes:
 Código Ejemplo Youtube:
 https://github.com/toninow/dotnet-procesos/tree/master/Deberes/1_YoutubeExample/Proyecto.Uno.Test
 
+Video de youtube ejemplo tdd
+https://www.youtube.com/watch?v=vSxdD7zkF3I&t=560s
+
 Código Algoritmos Ordenamiento:
 https://github.com/toninow/dotnet-procesos/tree/master/Deberes/1_YoutubeExample/Proyecto.Uno.Test
 
