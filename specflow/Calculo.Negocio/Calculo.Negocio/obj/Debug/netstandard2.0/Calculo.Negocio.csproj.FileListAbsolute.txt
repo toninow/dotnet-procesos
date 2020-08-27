@@ -1,9 +1,0 @@
-/home/devant/DotnetProcs/specflow/Calculo.Negocio/Calculo.Negocio/bin/Debug/netstandard2.0/Calculo.Negocio.deps.json
-/home/devant/DotnetProcs/specflow/Calculo.Negocio/Calculo.Negocio/bin/Debug/netstandard2.0/Calculo.Negocio.dll
-/home/devant/DotnetProcs/specflow/Calculo.Negocio/Calculo.Negocio/bin/Debug/netstandard2.0/Calculo.Negocio.pdb
-/home/devant/DotnetProcs/specflow/Calculo.Negocio/Calculo.Negocio/obj/Debug/netstandard2.0/Calculo.Negocio.csprojAssemblyReference.cache
-/home/devant/DotnetProcs/specflow/Calculo.Negocio/Calculo.Negocio/obj/Debug/netstandard2.0/Calculo.Negocio.AssemblyInfoInputs.cache
-/home/devant/DotnetProcs/specflow/Calculo.Negocio/Calculo.Negocio/obj/Debug/netstandard2.0/Calculo.Negocio.AssemblyInfo.cs
-/home/devant/DotnetProcs/specflow/Calculo.Negocio/Calculo.Negocio/obj/Debug/netstandard2.0/Calculo.Negocio.csproj.CoreCompileInputs.cache
-/home/devant/DotnetProcs/specflow/Calculo.Negocio/Calculo.Negocio/obj/Debug/netstandard2.0/Calculo.Negocio.dll
-/home/devant/DotnetProcs/specflow/Calculo.Negocio/Calculo.Negocio/obj/Debug/netstandard2.0/Calculo.Negocio.pdb

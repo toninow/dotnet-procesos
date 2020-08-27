@@ -1,4 +1,0 @@
-/home/devant/DotnetProcs/AspNetCoreToDo/AspNetCoreToDo/obj/Debug/netcoreapp3.1/AspNetCoreTodo.csprojAssemblyReference.cache
-/home/devant/DotnetProcs/AspNetCoreToDo/AspNetCoreToDo/obj/Debug/netcoreapp3.1/AspNetCoreTodo.AssemblyInfoInputs.cache
-/home/devant/DotnetProcs/AspNetCoreToDo/AspNetCoreToDo/obj/Debug/netcoreapp3.1/AspNetCoreTodo.AssemblyInfo.cs
-/home/devant/DotnetProcs/AspNetCoreToDo/AspNetCoreToDo/obj/Debug/netcoreapp3.1/AspNetCoreTodo.csproj.CoreCompileInputs.cache
